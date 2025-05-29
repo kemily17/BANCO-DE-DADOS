@@ -1,0 +1,108 @@
+INSERT INTO Obras_literarias (
+    TITULO, AUTOR, ANO_PUBLICACAO, GENERO, TEMAS, CONTEXTO_HISTORICO,
+    PERSONAGENS_PRINCIPAIS, RESUMO, IMPACTO_CULTURAL, CLASSIFICACAO,
+    SINOPSE, NUM_PAGINAS, PREMIOS, PUBLICO_ALVO, PAIS_ORIGEM,
+    IDIOMA, PRECO, CUSTO_PRODUCAO, EDITORA
+) VALUES 
+(
+    'Sentimento do Mundo',
+    'Carlos Drummond de Andrade',
+    1940,
+    'Poesia',
+    'Guerra, amor, existência, política',
+    'Segunda Guerra Mundial e contexto brasileiro da Era Vargas',
+    'O eu lírico, figuras simbólicas da coletividade',
+    'Sentimento do Mundo é uma coletânea de poemas que abordam as angústias e esperanças de um mundo em guerra, com forte crítica social e introspecção.',
+    'Obra marcante na literatura brasileira, influenciou diversas gerações e refletiu o espírito da época.',
+    'Obra clássica da literatura brasileira moderna',
+    'Uma coletânea de poemas que explora o íntimo do ser humano diante das crises sociais e existenciais.',
+    88,
+    3,
+    'Adulto',
+    'Brasil',
+    'Português',
+    39.90,
+    15.00,
+    'Editora José Olympio'
+);
+INSERT INTO Obras_literarias (
+    TITULO, AUTOR, ANO_PUBLICACAO, GENERO, TEMAS, CONTEXTO_HISTORICO,
+    PERSONAGENS_PRINCIPAIS, RESUMO, IMPACTO_CULTURAL, CLASSIFICACAO,
+    SINOPSE, NUM_PAGINAS, PREMIOS, PUBLICO_ALVO, PAIS_ORIGEM,
+    IDIOMA, PRECO, CUSTO_PRODUCAO, EDITORA
+) VALUES 
+(
+    'Torto Arado',
+    'Itamar Vieira Junior',
+    2019,
+    'Romance',
+    'Terras, ancestralidade, opressão, espiritualidade, luta social',
+    'Brasil contemporâneo com foco em comunidades rurais do sertão baiano, com raízes na escravidão e no trabalho informal', 
+    'Bibiana, Belonísia, Zeca Chapéu Grande, Donana',
+    'A história gira em torno das irmãs Bibiana e Belonísia, que vivem em uma comunidade rural marcada por tradições afro-brasileiras, injustiças sociais e a busca por liberdade.',
+    'Recebeu grande reconhecimento crítico e popular, abrindo espaço para a literatura negra brasileira e debates sobre desigualdade social.',
+    'Romance contemporâneo premiado e engajado socialmente',
+    'Um drama impactante sobre duas irmãs ligadas por um acidente na infância e por uma trajetória de resistência em meio à opressão social e espiritual.',
+    264,
+    5,
+    'Adulto',
+    'Brasil',
+    'Portugues',
+    59.90,
+    20.00,
+    'Todavia'
+);
+INSERT INTO Obras_literarias (
+    TITULO, AUTOR, ANO_PUBLICACAO, GENERO, TEMAS, CONTEXTO_HISTORICO,
+    PERSONAGENS_PRINCIPAIS, RESUMO, IMPACTO_CULTURAL, CLASSIFICACAO,
+    SINOPSE, NUM_PAGINAS, PREMIOS, PUBLICO_ALVO, PAIS_ORIGEM,
+    IDIOMA, PRECO, CUSTO_PRODUCAO, EDITORA
+) VALUES 
+(
+'clara dos anjos',
+'lima barreto',
+1948,
+'romance',
+'preconceito racial, desigualdade social, hipocrisia burguesa, inocencia',
+ 'Brasil do início do século XX, marcado por forte racismo estrutural e desigualdade social após a abolição da escravatura',
+    'Clara dos Anjos, Cassi Jones, Joaquim dos Anjos',
+    'A obra retrata a vida de Clara, uma jovem negra da periferia do Rio de Janeiro, que se envolve com um malandro da classe média e é vítima da exploração e da hipocrisia social.',
+    'Importante denúncia social, com destaque para o racismo e a posição da mulher negra na sociedade brasileira. Tornou-se referência crítica da literatura brasileira.',
+    'Romance naturalista com forte crítica social',
+    'Clara, jovem ingênua e sonhadora, se vê envolvida em uma realidade cruel de preconceito e desilusão ao se apaixonar por Cassi Jones, um sedutor da elite suburbana.',
+    160,
+    0,
+    'juvenil/adulto',
+    'brasil',
+    'portugues',
+    34.90,
+    10.00,
+    'editora brasiliense'
+);
+INSERT INTO Obras_literarias (
+    TITULO, AUTOR, ANO_PUBLICACAO, GENERO, TEMAS, CONTEXTO_HISTORICO,
+    PERSONAGENS_PRINCIPAIS, RESUMO, IMPACTO_CULTURAL, CLASSIFICACAO,
+    SINOPSE, NUM_PAGINAS, PREMIOS, PUBLICO_ALVO, PAIS_ORIGEM,
+    IDIOMA, PRECO, CUSTO_PRODUCAO, EDITORA
+) VALUES 
+(
+    'olhos d\'agua',
+    'conceicao evaristo',
+    2014,
+    'contos',
+    'racismo, pobreza, resistencia, identidade, violencia  urbana, memorias',
+    'brasil contemporaneo, com foco em perferias e vivencias da populacao negra',
+    'mulheres negras perifericas, maes, filhas, trabalhadoras',
+    'coletanea de contos que retratam com sensibilidade e força as vivências de pessoas negras, especialmente mulheres, nas periferias brasileiras.',
+    'Referência na literatura afro-brasileira contemporânea, marcou presença no vestibular e promoveu debates sobre racismo estrutural e voz feminina.',
+    'Literatura de resistência com forte carga social e poética',
+    'Os contos revelam realidades duras, porém sensíveis, vividas por mulheres negras, com destaque para o olhar afetuoso e crítico da autora.',
+    128,
+    4,
+     'adulto',
+    'brasil',
+    'portugues',
+     44.90,
+     12.00,
+    'pallas'
+);
